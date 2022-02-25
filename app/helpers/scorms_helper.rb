@@ -1,0 +1,2 @@
+module ScormsHelper
+end
